@@ -19,6 +19,17 @@
     "ios": {
       "supportsTablet": true
     },
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyBq-uuLGIm7Je89O0iWZBGkkahD40PpulI",
+        "authDomain": "studigo-apps.firebaseapp.com",
+        "projectId": "studigo-apps",
+        "storageBucket": "studigo-apps.appspot.com",
+        "messagingSenderId": "332410035803",
+        "appId": "1:332410035803:web:d4cfe9e7a482f1948f697e",
+        "measurementId": "G-W3ZC3BBZB8"
+        } 
+      },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
